@@ -3,6 +3,7 @@
 
 ### 使用IntelliJ IDEA来新建一个使用Maven管理的一个WebApp项目，并使用git来提交到GitHub中。
    具体项目见GitHub地址：https://github.com/WangJieWJ/IntelliJ-IDEA.git
+   ![IDEA界面](img/2.png)   ！[效果图](img/3.png)
    
 ### 在IntelliJ IDEA中配置git：
    1、选择File中的Setting
