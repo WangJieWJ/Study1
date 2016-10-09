@@ -34,7 +34,7 @@ pom.xml
 ```xml
     <modelVersion>4.0.0</modelVersion>  <!-- maven版本，此值固定-->
 
-    <!-- 项目 -->
+    <!-- 项目  通过下面三项可以代表唯一确定该项目-->
     <groupId>org.gpf.maventest01</groupId><!--项目包名-->
     <artifactId>maventest01</artifactId>  <!-- 模块名，建议使用项目名 -->
     <version>0.0.1SNAPSHOT</version>    <!--版本，此处为快照版本-->
