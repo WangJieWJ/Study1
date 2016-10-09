@@ -31,9 +31,7 @@ pom.xml
    在Maven中，使用groupId、artifactId和version组成groupdId:artifactId:version的形式来唯一确定一个项目
    (maven中任何一个依赖、插件都可以被称为构件。所有构件通过坐标作为其唯一标识。)
    
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-
+```xml
     <modelVersion>4.0.0</modelVersion>  <!-- maven版本，此值固定-->
 
     <!-- 项目 -->
@@ -54,6 +52,6 @@ pom.xml
             </exclusions>
         </dependency>
     </dependencies>
-</project>
+```
 
 
