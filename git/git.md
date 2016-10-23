@@ -127,6 +127,6 @@ $ git fetch 远程主机名 分支名：
 
 
 进阶网址：
-- ProGit中文版 [ProGit中文版](https://git-scm.com/book/zh/v2)
-- 廖雪峰的Git教程 [廖雪峰的Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-- Git简易指南 [Git简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
+-  [ProGit中文版](https://git-scm.com/book/zh/v2)
+-  [廖雪峰的Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+-  [Git简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
